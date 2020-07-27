@@ -14,7 +14,7 @@ h2 {
 }
 
 .completed {
-  font-weight: 12;
+  font-weight: normal;
 }
 
 #tasks .completed {
